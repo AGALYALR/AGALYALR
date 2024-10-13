@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Agalya Ramprakash</h1>
 <h3 align="center">An Ambitious Computer Science Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=agalyalr&label=Profile%20views&color=0e75b6&style=flat" alt="agalyalr" /> </p>
-
 <h2><b>About Me: </b> </h2><br>
    A final year student in the field of Computer Science, I am highly interested in the exploration and mastery of new technologies. Committed to lifelong learning, I stand driven to innovate and assist others through my skill and ability. <br>
 <h3 align="left">Connect with me:</h3>
@@ -16,3 +14,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=agalyalr&show_icons=true&locale=en&layout=compact" alt="agalyalr" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=agalyalr&show_icons=true&locale=en" alt="agalyalr" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=agalyalr&label=Profile%20views&color=0e75b6&style=flat" alt="agalyalr" /> </p>
+
