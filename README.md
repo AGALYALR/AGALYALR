@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Agalya Ramprakash</h1>
 <h3 align="center">An Ambitious Computer Science Engineer</h3>
 
-### About Me
+### About Me:
 
 I am a final-year student in the field of Computer Science, highly interested in the exploration and mastery of new technologies. With a commitment to lifelong learning, I am driven to innovate and assist others through my skills and abilities.
 
