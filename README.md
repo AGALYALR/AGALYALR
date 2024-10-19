@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Agalya Ramprakash</h1>
 <h3 align="center">An Ambitious Computer Science Engineer</h3>
 
-### About Me:
+## <picture><img src = "https://user-images.githubusercontent.com/64439609/213525571-a0b12213-7e89-48df-a45f-153c78f3cf5e.png" width =40px></picture> **About me**
 
+<picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 400px></picture>
+ 
 I am a final-year student in the field of Computer Science, highly interested in the exploration and mastery of new technologies. With a commitment to lifelong learning, I am driven to innovate and assist others through my skills and abilities.
 
 
