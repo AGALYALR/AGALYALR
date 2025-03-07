@@ -7,6 +7,9 @@
  
 I am a final-year student in the field of Computer Science, highly interested in the exploration and mastery of new technologies. With a commitment to lifelong learning, I am driven to innovate and assist others through my skills and abilities.
 
+• Aspiring Software Developer with expertise in Web Development , UI/UX Designing and Database Management.
+• Passionate about building user-friendly applications and solving real-world problems with technology.
+• Seeking an entry level role to apply my skills and grow in a dynamic team environment.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
