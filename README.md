@@ -26,7 +26,7 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white&style=for-the-badge)](https://www.leetcode.com/agalya__lr)
 
 ---
-### 🚀 Skills & Tools
+### 🚀 Skills & Languages
 
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
@@ -46,3 +46,12 @@
 </p>
 
 ---
+
+### 🛠️ Tech Stack
+
+```html
+Languages     : C, Java, JavaScript, Python, HTML, CSS
+Frameworks    : ReactJS
+Database      : MySQL, MongoDB
+Design Tools  : Figma, Canva
+Software Tools        : Git, GitHub, Tableau, Excel 
