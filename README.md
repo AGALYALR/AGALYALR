@@ -13,7 +13,6 @@
 
 - 💡 Final-year Computer Science student passionate about **Web Development**, **UI/UX Design**, and **Database Management**.
 - 🌱 Constantly learning new tools and technologies to solve real-world problems.
-- 💼 Seeking an **entry-level role** to contribute and grow in a dynamic, team-driven environment.
 - ✨ Focused on building clean, user-friendly applications that make an impact.
 
 ---
@@ -50,8 +49,8 @@
 ### 🛠️ Tech Stack
 
 ```html
-Languages     : C, Java, JavaScript, Python, HTML, CSS
-Frameworks    : ReactJS
-Database      : MySQL, MongoDB
-Design Tools  : Figma, Canva
+Languages             : C, Java, Python, HTML, CSS, JavaScript
+Frameworks            : ReactJS
+Database              : MySQL, MongoDB
+Design Tools          : Figma, Canva
 Software Tools        : Git, GitHub, Tableau, Excel 
