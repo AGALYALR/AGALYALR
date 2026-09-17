@@ -16,14 +16,21 @@
 
 ## 💼 Internship Experience
 
-**Python Intern – QSignage AI**  
-📍 *On-site* | 🗓️ *Present*
+**Software Development Intern – QSignage AI**  
+📍 *On-site* | 🗓️ *September 2025 - May 2026*
 
-- Developing **computer vision pipelines** using **Python**.
-- Implementing **real-time pose and landmark detection** using **MediaPipe**.
-- Working with **YOLO** for object detection and **DeepSORT** for multi-object tracking.
-- Performing **video-based person tracking and smart cropping** for AI-driven signage use cases.
-- Optimizing detection accuracy and performance for real-world video inputs.
+Developed and maintained production features for the company’s location partner platform, including video
+cropping and smart content tagging functionality.
+• Built real-time AI features for bicep curl detection and plank pose estimation using Python, OpenCV and
+MediaPipe, enabling skeletal tracking, rep counting and live performance feedback, shipped as an interactive
+gameplay feature
+• Built responsive frontend interfaces using React.js and integrated Firebase Authentication and real-time database
+operations.
+• Deployed and maintained production applications using AWS Amplify, EC2 (t3.medium) and S3 across frontend,
+backend, and static asset workflows.
+• Designed and maintained the company’s official website using Wix, focusing on responsive UI and user experience.
+• Collaborated across the SDLC, contributing to feature development, designing, integration, testing and deployment
+in a fast-paced startup environment.
 
 ## 🚀 Skills & Languages
 
