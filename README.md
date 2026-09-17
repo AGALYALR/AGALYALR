@@ -7,7 +7,7 @@
 - 🎓 Computer Science Engineering graduate with strong interest in **Web Development** and **Computer Vision**.
 - 💼 Currently working as a **Python Intern at QSignage AI**.
 - 🧠 Hands-on experience with **MediaPipe**, **YOLO**, and **DeepSORT** for real-time detection, tracking, and video processing.
-- 🎥 Working on **object detection, person tracking, and automated video cropping** using Python.
+- 🎥 Worked on **object detection, person tracking, and automated video cropping** using Python.
 - 🎨 Former **UI/UX Design Intern at CodSoft**, experienced in user-centered design.
 - 📄 Published a **research paper on Medicinal Leaf Classification** using **MobileNet**.
 - 🚀 Actively preparing for **Software / Computer Vision / Web Developer roles**.
@@ -18,20 +18,11 @@
 
 **Software Development Intern – QSignage AI**  
 📍 *On-site* | 🗓️ *September 2025 - May 2026*
-
-Developed and maintained production features for the company’s location partner platform, including video
-cropping and smart content tagging functionality.
-• Built real-time AI features for bicep curl detection and plank pose estimation using Python, OpenCV and
-MediaPipe, enabling skeletal tracking, rep counting and live performance feedback, shipped as an interactive
-gameplay feature
-• Built responsive frontend interfaces using React.js and integrated Firebase Authentication and real-time database
-operations.
-• Deployed and maintained production applications using AWS Amplify, EC2 (t3.medium) and S3 across frontend,
-backend, and static asset workflows.
-• Designed and maintained the company’s official website using Wix, focusing on responsive UI and user experience.
-• Collaborated across the SDLC, contributing to feature development, designing, integration, testing and deployment
-in a fast-paced startup environment.
-
+- Developed and maintained web applications.
+- Got exposure to work with Computer Vision and Artificial Intelligence.
+- Hand on experience with AWS S3, EC2, Amplify.
+- Expertise in Python.
+  
 ## 🚀 Skills & Languages
 
 <p align="left">
